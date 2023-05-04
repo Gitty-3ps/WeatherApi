@@ -1,5 +1,3 @@
-Sure, here's an updated version of the README file for your .NET 6 and C# project that includes information on using Swagger and testing the API using HTTP POST requests:
-
 # WeatherApi
 
 This is the repository for the WeatherApi project.
